@@ -1,0 +1,53 @@
+.blog:hover .blog-img{
+    transform: scale(1.1)
+}
+
+
+
+.App-header {
+background-color: #282c34;
+min-height: 20vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: calc(10px + 2vmin);
+color: white;
+}
+
+.blog-list {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+
+.blog-post {
+margin-bottom: 20px;
+border: 1px solid #ccc;
+padding: 10px;
+}
+
+.pagination {
+display: flex;
+list-style: none;
+padding: 0;
+justify-content: center;
+}
+
+.page-item {
+margin: 0 5px;
+}
+
+.page-link {
+text-decoration: none;
+background-color: #007bff;
+color: #fff;
+padding: 5px 10px;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.page-link:hover {
+background-color: #0056b3;
+}
+  

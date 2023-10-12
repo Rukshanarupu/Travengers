@@ -1,0 +1,13 @@
+.service:hover .service-icon{
+    color: #fba406;
+    background-color: white;
+}
+
+.service:hover .read-btn{
+    color: white;
+    background-color: #1c5198;
+}
+.service:hover .read-btnIcon{
+    background-color: white;
+    color: #1c5198;
+}

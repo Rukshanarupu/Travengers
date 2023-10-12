@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "blog_name": "Top 5 Must-Visit Places in Dhaka",
+    "blog": "Dhaka, the capital of Bangladesh, is a vibrant and bustling city with a rich history and culture. Here are the top 5 places to visit in Dhaka:\n1. Ahsan Manzil\n2. Lalbagh Fort\n3. Dhakeshwari Temple\n4. National Parliament House\n5. National Museum\n\nRead more about these places and how to make the most of your visit in our blog.",
+    "img_link": "https://i.ibb.co/VWssSsW/blog-1.webp",
+    "date": "Jan 05, 2022",
+    "blogger": "Matthew N. Davis",
+    "blogger_img": "https://i.ibb.co/ZTM7F34/author-1.jpg",
+    "comment_details":[
+      {
+        "comment_img": "https://i.ibb.co/4JP9nPH/comment-1.jpg",
+        "comment_author":"Jonathan M. Dickinson",
+        "comment_date":"June 25, 2023",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      },
+      {
+        "comment_img": "https://i.ibb.co/g6VPp8F/comment-2.jpg",
+        "comment_author":"Michael C. Paille",
+        "comment_date":"September 25, 2022",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "blog_name": "5 Tips for Traveling to Cox's Bazar",
+    "blog": "Cox's Bazar is the longest natural sea beach in the world, and a popular destination for both locals and tourists. Here are 5 tips to help you make the most of your trip:\n1. Plan ahead for accommodation\n2. Visit early in the morning to avoid crowds\n3. Try local seafood delicacies\n4. Take a dip in the sea\n5. Explore the nearby Himchori Waterfall\n\nRead our blog for more details and recommendations.",
+    "img_link": "https://i.ibb.co/0GbLk0p/blog-3.webp",
+    "date": "Jun 12, 2022",
+    "blogger": "Matthew N. Davis",
+    "blogger_img": "https://i.ibb.co/ZTM7F34/author-1.jpg",
+    "comment_details":[
+      {
+        "comment_img": "https://i.ibb.co/4JP9nPH/comment-1.jpg",
+        "comment_author":"Jonathan M. Dickinson",
+        "comment_date":"June 25, 2023",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      },
+      {
+        "comment_img": "https://i.ibb.co/g6VPp8F/comment-2.jpg",
+        "comment_author":"Michael C. Paille",
+        "comment_date":"September 25, 2022",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "blog_name": "Discover the Beauty of Srimangal",
+    "blog": "Srimangal is a town in northeastern Bangladesh known for its tea gardens and natural beauty. Here are some must-visit places in Srimangal:\n1. Lawachara National Park\n2. Madhabpur Lake\n3. Baikka Beel Wetland Sanctuary\n4. Tea Gardens\n\nLearn more about these attractions and how to plan your trip in our blog.",
+    "img_link": "https://i.ibb.co/1mMq0GK/blog-2.webp",
+    "date": "Aug 06, 2023",
+    "blogger": "Matthew N. Davis",
+    "blogger_img": "https://i.ibb.co/ZTM7F34/author-1.jpg",
+    "comment_details":[
+      {
+        "comment_img": "https://i.ibb.co/4JP9nPH/comment-1.jpg",
+        "comment_author":"Jonathan M. Dickinson",
+        "comment_date":"June 25, 2023",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      },
+      {
+        "comment_img": "https://i.ibb.co/g6VPp8F/comment-2.jpg",
+        "comment_author":"Michael C. Paille",
+        "comment_date":"September 25, 2022",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "blog_name": "5 Things to Do in Sundarbans",
+    "blog": "Sundarbans is the largest mangrove forest in the world, and a UNESCO World Heritage Site. Here are 5 things to do in Sundarbans:\n1. Take a boat tour\n2. Spot wildlife, including the Royal Bengal Tiger\n3. Visit the Katka Watch Tower\n4. Explore the nearby Hiron Point\n5. Learn about local culture and history at the Sundarbans Museum\n\nRead our blog for more information and tips.",
+    "img_link": "https://i.ibb.co/mTmp4S6/blog-4.webp",
+    "date": "Apr 11, 2023",
+    "blogger": "Matthew N. Davis",
+    "blogger_img": "https://i.ibb.co/ZTM7F34/author-1.jpg",
+    "comment_details":[
+      {
+        "comment_img": "https://i.ibb.co/4JP9nPH/comment-1.jpg",
+        "comment_author":"Jonathan M. Dickinson",
+        "comment_date":"June 25, 2023",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      },
+      {
+        "comment_img": "https://i.ibb.co/g6VPp8F/comment-2.jpg",
+        "comment_author":"Michael C. Paille",
+        "comment_date":"September 25, 2022",
+        "comments":"Nov ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam quae abillo inventore veritatis"
+      }
+    ]
+  }
+]

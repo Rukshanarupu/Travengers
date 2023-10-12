@@ -1,0 +1,82 @@
+.discount-item {
+    height: 200px;
+    overflow: hidden;
+    cursor: pointer;
+    /* border-radius: 4px; */
+    position: relative;
+}
+  
+  .discount-img {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    /* border-radius: 4px; */
+    transition: all 0.7s ease;
+    background-image: url("https://andtour-vue.netlify.app/img/big-img.a49b935c.png");
+}
+  
+.discount-item:hover .discount-img {
+    transform: scale(1.3) rotate(3deg);
+    background-color: #888;
+    background-blend-mode: multiply;
+}
+  
+.discount-title {
+    font-family: "Amatic SC", cursive;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 13%;
+    left: 15%;
+    z-index: 1;
+    /* display: inline-block; */
+    padding-bottom: 7px;
+}
+  .discount-title::after {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  
+.discount-item:hover .discount-title {
+    top: 17%;
+    transition: all 0.7s ease;
+}
+.discount-item:hover .discount-title::after {
+    width: 100%;
+    left: 0;
+}
+  
+  .discount-description {
+    /* display: none; */
+    color: #fff;
+    padding: 20px 0px;
+    position: absolute;
+    bottom: 0%;
+    left: 15%;
+  }
+  
+/* .discount-item:hover .discount-description {
+display: inline;
+position: absolute;
+bottom: 0%;
+left: 15%;
+} */
+  
+  .discount-item2 .discount-img {
+    transform: scale(1.3);
+    background-image: url("https://gotrip-next.vercel.app/_next/image?url=%2Fimg%2Fbackgrounds%2F2.png&w=1920&q=75");
+  }
+  
+  .discount-item2:hover .discount-img {
+    transform: scale(1);
+  }

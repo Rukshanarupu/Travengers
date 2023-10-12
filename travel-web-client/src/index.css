@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.my-btn{
+    @apply inline-flex flex-wrap items-center justify-center text-center rounded-md px-5 py-1 font-medium cursor-pointer normal-case bg-myRed-orange text-white
+}
+
+.nav-btn{
+    @apply bg-myAlmost-sky text-white 
+}
+.active{
+    @apply font-medium tracking-wide text-gray-900 transition-colors duration-200 bg-myOrange
+}
+
+.default{
+    @apply font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-myOrange
+}
+

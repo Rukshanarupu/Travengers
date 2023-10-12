@@ -1,0 +1,50 @@
+.activity-card:hover .activity-des {
+    color: transparent;
+}
+
+.activity-card{
+    position: absolute;
+    top: 0%;
+    Left: 0%;
+    overflow: hidden;
+    transition: 1s all ease;
+    font-family: "montserrat";
+}
+.activity-card:hover .activity-icon{
+    overflow: hidden;
+    transition: 1s all ease;
+    font-family: "montserrat";
+    background-color: white;
+    color: #f8bf1d;
+}
+
+.activity-card::before{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    content:"";
+    width: 0;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    Left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: -1;
+    transition: all 0.6s ease;
+}
+.activity-card-one::before{
+    background-image: url("https://i.ibb.co/xqN3VJ0/activity-tent.jpg");
+}
+.activity-card-two::before{
+    background-image: url("https://i.ibb.co/z4MxrTL/activity-biking.jpg");
+}
+.activity-card-three::before{
+    background-image: url("https://i.ibb.co/DC4gJ1D/activity-fishing.jpg");
+}
+.activity-card-four::before{
+    background-image: url("https://i.ibb.co/5M3XyYt/activity-kayaking.jpg");
+}
+.activity-card:hover::before{
+    width: 100%;
+}
