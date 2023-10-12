@@ -32,17 +32,17 @@ const router = createBrowserRouter([
      {
       path : 'blogs',
       element: <Blog></Blog>,
-      loader: ()=> fetch('http://localhost:5000/blog')
+      loader: ()=> fetch('https://travel-web-server-in7p62o9j-rukshanarupu.vercel.app/blog')
      },
       {
        path : 'blog-details/:id',
        element: <BlogDetails></BlogDetails>,
-       loader: ({params})=> fetch(`http://localhost:5000/blog/${params.id}`)
+       loader: ({params})=> fetch(`https://travel-web-server-in7p62o9j-rukshanarupu.vercel.app/blog/${params.id}`)
       },
      {
       path : 'destinations',
       element: <Destination></Destination>,
-      loader: ()=> fetch("http://localhost:5000/destinations")
+      loader: ()=> fetch("https://travel-web-server-in7p62o9j-rukshanarupu.vercel.app/destinations")
      },
      {
       path : 'destination/:id',
